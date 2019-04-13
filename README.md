@@ -2,6 +2,7 @@
 * goal
 
 crawler Images for Nexus and Pixel Devices
+https://developers.google.com/android/images
 
 * Requirements:
 
