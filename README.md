@@ -1,7 +1,7 @@
-# scraping-Google-factory-image
+# crawler-Google-factory-image
 * goal
 
-Scraping factory Images for Nexus and Pixel Devices
+crawler Images for Nexus and Pixel Devices
 
 * Requirements:
 
