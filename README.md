@@ -9,8 +9,8 @@ https://developers.google.com/android/images
 python 3
 and beautifulsoup module
 
-* Use :
+* Using :
 
-run #python3 scrapingGoogleImage.py
+run $ python3 scrapingGoogleImage.py
 
 
